@@ -1,4 +1,4 @@
-package io.qameta.allure.examples.cucumber7;
+package com.example.cucumberjvm;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
